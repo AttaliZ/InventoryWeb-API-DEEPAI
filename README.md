@@ -19,23 +19,23 @@ InventoryWeb-API-DEEPAI is a smart inventory management system designed for bake
 📂 Project Structure
 
 /InventoryWeb-API-DEEPAI
-│── api/
-│   ├── add_cake.php           # Add a new cake entry
-│   ├── add_product.php        # Add a new product
-│   ├── delete_product.php     # Remove a product
-│   ├── edit_product.php       # Update product details
-│   ├── generate_cake.php      # Generate cake images using AI
-│   ├── search_product.php     # Search for products
-│   ├── show_cakes.php         # Display all available cakes
-│   ├── submit_product.php     # Submit new product details
-│── assets/
-│   ├── cake_image/            # Stores AI-generated cake images
-│   ├── uploads/               # Stores user-uploaded images
-│── backend/
-│   ├── connect.php            # Database connection file
-│── frontend/
-│   ├── home.php               # Main frontend for product display
-│── README.md
+│── api/<br>
+│   ├── add_cake.php           # Add a new cake entry<br>
+│   ├── add_product.php        # Add a new product<br>
+│   ├── delete_product.php     # Remove a product<br>
+│   ├── edit_product.php       # Update product details<br>
+│   ├── generate_cake.php      # Generate cake images using AI<br>
+│   ├── search_product.php     # Search for products<br>
+│   ├── show_cakes.php         # Display all available cakes<br>
+│   ├── submit_product.php     # Submit new product details<br>
+│── assets/<br>
+│   ├── cake_image/            # Stores AI-generated cake images<br>
+│   ├── uploads/               # Stores user-uploaded images<br>
+│── backend/<br>
+│   ├── connect.php            # Database connection file<br>
+│── frontend/<br>
+│   ├── home.php               # Main frontend for product display<br>
+│── README.md<br>
 
 ## 🎨 WEB Preview
 ![HOME!](assets/webpage/image1.png)
