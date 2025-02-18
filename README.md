@@ -54,7 +54,7 @@ InventoryWeb-API-DEEPAI is a smart inventory management system designed for bake
 
 2️⃣ Set Up Database
 
--Create a MySQL database and import the inventory.sql file.
+-Create a MySQL database.
 
 -Update connect.php with your database credentials:
 
