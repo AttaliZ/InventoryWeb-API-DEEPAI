@@ -49,7 +49,7 @@ InventoryWeb-API-DEEPAI is a smart inventory management system designed for bake
 
 1️⃣ Clone the repository
 
--git clone https://github.com/yourusername/InventoryWeb-API-DEEPAI.git
+-git clone https://github.com/yourusername/InventoryWeb-API-DEEPAI.git<br>
 -cd InventoryWeb-API-DEEPAI
 
 2️⃣ Set Up Database
